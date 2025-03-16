@@ -8,4 +8,4 @@ function randomNum(min: number, max: number) {
     let range: number = max - min + 1;
     return Math.floor(Math.random() * range) + min;
   }
-  /* This is to learn typescript */
+  /* This is to learn TypeScript */
